@@ -1,4 +1,4 @@
--                                                👋 Hii, i'm Dulakshi Keshani
+                                            👋 Hii, i'm Dulakshi Keshani
 - 👋 I’m a SE undergratuate.
 - 🌱 I’m currently studying at ICBT Campus
 - 💞️ All of my project available at https://github.com/Dulakshi987
