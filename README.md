@@ -10,9 +10,9 @@
 
 - 🌱 I'm studying **BSc (Hons) Software Engineering at Cardiff Metropolitan University UK** via **ICBT Campus**.
   
--💻 I'm a **Full-Stack Developer** passionate about building end-to-end web applications.
+- 💻 I'm a **Full-Stack Developer** passionate about building end-to-end web applications.
 
--✍️ I write tech articles and tutorials on **Medium** - sharing knowledge with the developer community.
+- ✍️ I write tech articles and tutorials on **Medium** - sharing knowledge with the developer community.
 
 - 👨‍💻 All of my projects are available at https://github.com/Dulakshi987
 
