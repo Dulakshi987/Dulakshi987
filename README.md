@@ -1,8 +1,4 @@
 
-
-
-
-
 <h1 align="center">Hi 👋, I'm Dulakshi Keshani</h1>
 <h3 align="left">Hii, I'm a SE Undergraduate</h3>
 
@@ -12,16 +8,25 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m styding **at ICBT Campus**
+- 🌱 I'm studying **BSc (Hons) Software Engineering at Cardiff Metropolitan University UK** via **ICBT Campus**.
+  
+-💻 I'm a **Full-Stack Developer** passionate about building end-to-end web applications.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dulakshi987](https://github.com/Dulakshi987)
+-✍️ I write tech articles and tutorials on **Medium** - sharing knowledge with the developer community.
+
+- 👨‍💻 All of my projects are available at https://github.com/Dulakshi987
 
 - 📫 How to reach me **dulakshikeshani288@gmail.com**
+
+- 💡 I'm always learning new technologies and keeping up with industry trends.
+
+- 🤝 I'm looking to collaborate on open source projects and innovative web applications.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dulakshi-keshani-4a9558294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulakshi-keshani-4a9558294" height="30" width="40" /></a>
 <a href="https://discord.gg/keshani_02439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="keshani_02439" height="30" width="40" /></a>
+  <a href="https://medium.com/@dulakshikeshani288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="your-username" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,9 +52,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
-  <a href="https://docs.oracle.com/javaee/7/tutorial/servlets.htm" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="servlet" width="40" height="40"/>
-  </a>
+
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
