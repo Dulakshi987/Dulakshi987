@@ -1,20 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Dulakshi Keshani</h1>
-<script>
-    const text = "Hii, I'm a SE Undergraduate";
-    const el = document.getElementById('type');
-    const speed = 80; // ms per character
 
-    let i = 0;
-    function type() {
-      if (i <= text.length) {
-        el.textContent = text.slice(0,i);
-        i++;
-        setTimeout(type, speed);
-      }
-    }
-    type();
-  </script>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I'm+an+Undergraduate+Full+Stack+Developer;Passionate+about+Web+Development" alt="Typing SVG" />
+</h3>
+
 <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="Animated girl"  width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulakshi987&label=Profile%20views&color=0e75b6&style=flat" alt="dulakshi987" /> </p>
