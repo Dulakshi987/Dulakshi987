@@ -10,7 +10,7 @@
 
 - I'm studying **BSc (Hons) Software Engineering at Cardiff Metropolitan University UK** via **ICBT Campus**.
   
-- I'm a **Full-Stack Developer** , **Associate Softwrae Engineer** passionate about building frontend-to-backend web applications.
+- I'm a **Full-Stack Developer** , **Associate Software Engineer** passionate about building frontend-to-backend web applications.
 
 - I write tech articles and tutorials on **Medium** - sharing knowledge with the developer community.
 
