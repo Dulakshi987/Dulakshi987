@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm Dulakshi Keshani</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=25&pause=1000&color=006400&center=true&vCenter=true&width=600&lines=Frontend+Developer%3BBackend+Developer%3BFull+Stack+Developer%3BAssociate+Software+Engineer%3BWeb+Developer&repeat=false" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&pause=1000&color=006400&center=true&vCenter=true&width=600&lines=Frontend+Developer%3BBackend+Developer%3BFull+Stack+Developer%3BAssociate+Software+Engineer&repeat=false&weight=bold" alt="Typing SVG" />
 </h3>
+
 
 
 
