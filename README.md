@@ -133,19 +133,23 @@
   </a>
 
   <!-- Canva -->
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=canva" width="48" height="48"/> 
-  </a>
+   <a href="https://www.canva.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/1024px-Canva_icon_2021.svg.png" alt="canva" width="40" height="40"/> 
+  </a> 
 
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=figma" width="48" height="48"/> 
-  </a>
+  <!-- Jira -->
+  <a href="https://www.atlassian.com/software/jira" target="_blank"> 
+    <img src="https://wac-cdn.atlassian.com/dam/jcr:b5254c7c-06ad-40e9-84dd-6e35907d80b5/jiraSoftware-icon-gradient-blue.svg" alt="jira" width="40" height="40"/> 
+  </a> 
 
   <!-- Draw.io -->
   <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48"/> 
   </a>
+
+   <a href="https://www.postman.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a> 
 </p>
 
 
