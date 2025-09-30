@@ -1,12 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Dulakshi Keshani</h1>
-
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&pause=1000&color=006400&center=true&vCenter=true&width=600&lines=Frontend+Developer%3BBackend+Developer%3BFull+Stack+Developer%3BAssociate+Software+Engineer&repeat=false&weight=bold" alt="Typing SVG" />
 </h3>
-
-
-
 
 <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="Animated girl"  width="400" align="right">
 
