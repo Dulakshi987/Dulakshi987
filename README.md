@@ -8,19 +8,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I'm studying **BSc (Hons) Software Engineering at Cardiff Metropolitan University UK** via **ICBT Campus**.
+- I'm studying **BSc (Hons) Software Engineering at Cardiff Metropolitan University UK** via **ICBT Campus**.
   
-- 💻 I'm a **Full-Stack Developer** passionate about building end-to-end web applications.
+- I'm a **Full-Stack Developer** , **Associate Softwrae Engineer** passionate about building frontend-to-backend web applications.
 
-- ✍️ I write tech articles and tutorials on **Medium** - sharing knowledge with the developer community.
+- I write tech articles and tutorials on **Medium** - sharing knowledge with the developer community.
 
-- 👨‍💻 All of my projects are available at https://github.com/Dulakshi987
+- All of my profile are available at https://www.linkedin.com/in/dulakshi-keshani-4a9558294/
 
-- 📫 How to reach me **dulakshikeshani288@gmail.com**
+- How to reach me **dulakshikeshani288@gmail.com**
 
-- 💡 I'm always learning new technologies and keeping up with industry trends.
+- I'm always learning new technologies and keeping up with industry trends.
 
-- 🤝 I'm looking to collaborate on open source projects and innovative web applications.
+- I'm looking to collaborate on open source projects and innovative web applications.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
