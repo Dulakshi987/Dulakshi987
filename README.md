@@ -32,78 +32,121 @@
 <h2>Languages & Tools</h2>
 
 <p align="left">
+  <!-- C++ -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/> 
   </a>
+
+  <!-- CSS -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/> 
   </a>
+
+  <!-- Bootstrap -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/> 
   </a>
+
+  <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/> 
   </a>
+
+  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=js" width="48" height="48"/> 
   </a>
+
+  <!-- PHP -->
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=php" width="48" height="48"/> 
   </a>
+
+  <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=java" width="48" height="48"/> 
   </a>
+
+  <!-- C# -->
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=cs" width="48" height="48"/> 
   </a>
+
+  <!-- ASP.NET -->
   <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48"/> 
   </a>
+
+  <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/> 
   </a>
+
+  <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/> 
   </a>
+
+  <!-- Node.js -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/> 
   </a>
+
+  <!-- Express.js -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=express" width="48" height="48"/> 
   </a>
+
+  <!-- React -->
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=react" width="48" height="48"/> 
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=react" width="48" height="48"/> 
+
+  <!-- REST API -->
+  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="restapi" width="48" height="48"/> 
   </a>
+
+  <!-- Laravel -->
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48"/> 
   </a>
+
+  <!-- jQuery -->
   <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48"/> 
   </a>
+
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/> 
   </a>
+
+  <!-- GitHub -->
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/> 
   </a>
+
+  <!-- Jira -->
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=jira" width="48" height="48"/> 
   </a>
+
+  <!-- Canva -->
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=canva" width="48" height="48"/> 
   </a>
+
+  <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=figma" width="48" height="48"/> 
   </a>
+
+  <!-- Draw.io -->
   <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48"/> 
   </a>
 </p>
-
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulakshi987&show_icons=true&locale=en&layout=compact" alt="dulakshi987" /></p>
